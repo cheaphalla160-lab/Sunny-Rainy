@@ -1,0 +1,6 @@
+{
+  "name": "Sunny & Rainy Zoo",
+  "description": "Interactive primary English classroom game for learning Sunny Day and Rainy Day animal vocabulary through falling suns and raindrops, clear pronunciation, cheerful music, and a class leaderboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
