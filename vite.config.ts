@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-     base: '/Sunny-Rainy/',
+    base: '/Sunny-Rainy/',
     plugins: [
       react(),
       tailwindcss(),
